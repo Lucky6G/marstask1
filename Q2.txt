@@ -1,0 +1,5 @@
+QUESTION 2 WRTE UP
+CIRCUIT CONNECTIONS;
+The LED is connected to the Arduino through a resistor. The positive terminal of the LED is connected to a resistor, which is then connected to one of the Arduino pins. The negative terminal is connected to the ground using the common ground rail on the breadboard. For the potentiometer, the VCC pin is connected to the 5V supply of the Arduino, and the ground pin is connected to the same ground rail. The middle pin of the potentiometer is connected to one of the Arduino’s analog input pins.
+
+Tinker cad link : https://www.tinkercad.com/things/9hnCqaz0kbs-q2
