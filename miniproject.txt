@@ -1,1 +1,5 @@
+MINIPROJECT WRITE UP:
+CIRCUIT CONNECTIONS:
+Trig and echo of the sensors are connected to the arduino,vcc pon is connected to the 5v pin,ground of sensor is connected to the railing ground.
 
+Tinker cad link : https://www.tinkercad.com/things/a7Ve2UQC2RU-miniproject
