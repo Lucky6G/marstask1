@@ -1,0 +1,5 @@
+QUESTION 1 WRITEUP
+CIRCUIT CONNECTIONS:
+I connected terminals of the LEDs to the digital pins of Arduino (D2, D3, D4).LEDS terminal are connected to breadboard using breadboard.
+
+Tinker cad link : https://www.tinkercad.com/things/hA1MkWbEqEf-q1
