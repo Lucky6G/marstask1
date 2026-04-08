@@ -1,0 +1,5 @@
+QN3 WRITEUP
+CIRCUIT CONNECTIONS:
+The push button is connected such that one terminal goes to an Arduino pin, while the other terminal is connected to ground through the common ground rail of the breadboard. the LED is connected by linking its positive terminal (anode) to a resistor, which is then connected to an Arduino pin to control it. The negative terminal (cathode) is connected to the common ground rail, which is further connected to the Arduino’s ground.
+
+Tinker cad link : https://www.tinkercad.com/things/09XwuyGvZBu-q3
